@@ -1,3 +1,3 @@
  function wakeDog(a, b) {
-   return 'Wake ${a} the ${b}';
+   return ('Wake ${a} the ${b}');
 }
